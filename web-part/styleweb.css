@@ -16,7 +16,7 @@
 
 
 body {
-    background-color: linear-gradient(to bottom, rgb(153, 45, 255), rgb(0, 153, 255) );
+    background-color: linear-gradient(to bottom, rgb(153, 45, 255));
     background-size: 100% 1200%;
     background-repeat: no-repeat;
     animation: 1s ease-out 0s 1 slideInFromBottom;
