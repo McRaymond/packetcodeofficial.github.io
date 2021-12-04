@@ -419,7 +419,7 @@ body {
         z-index: 1; 
         top: 0; 
         right: 0;
-        background-color: rgb(0, 132, 255);
+        background-color: #610094;
         overflow-x: hidden; 
         padding-top: 60px;
         transition: 0.5s;
