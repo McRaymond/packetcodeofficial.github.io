@@ -14,7 +14,7 @@
     }
 }
 body {
-    background-image: url(./imagenes/background.jpg) no-repeat center top;
+    background-image: url(./imagenes/background.jpg) no-repeat center center;
     animation: 1s ease-out 0s 1 slideInFromBottom;
 }
 
@@ -41,7 +41,7 @@ body {
     
     font-family: MPLUS1Code;
     font-weight: 408;
-    font-size: 60px;
+    font-size: 10px;
     line-height: 100%;
     /* or 60px */
     
