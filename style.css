@@ -40,9 +40,8 @@ body {
     left: 200px;
     top: 300px;
     
-    font-family: monospace;
-    font-style: normal;
-    font-weight: normal;
+    font-family: "M PLUS 1 Code";
+    font-weight: 408;
     font-size: 60px;
     line-height: 100%;
     /* or 60px */
