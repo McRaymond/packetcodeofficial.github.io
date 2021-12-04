@@ -16,7 +16,7 @@
 
 
 body {
-    background-image: url(./imagenes/background.jpg);
+    background: linear-gradient(to bottom, #610094, #99FEFF);
     background-size: 100% 1000%;
     animation: 1s ease-out 0s 1 slideInFromBottom;
 
