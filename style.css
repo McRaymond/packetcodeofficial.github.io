@@ -15,7 +15,7 @@
 }
 body {
     background: linear-gradient(to bottom, #B983FF, #99FEFF);
-    background-size: 100% 2000%;
+    background-size: 100% 1000%;
     animation: 1s ease-out 0s 1 slideInFromBottom;
 }
 
