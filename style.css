@@ -14,7 +14,7 @@
     }
 }
 body {
-    background-image: url(./imagenes/background.png);
+    background-image: url(imagenes/background.png);
     background-size: 100%;
     animation: 1s ease-out 0s 1 slideInFromBottom;
 }
