@@ -342,6 +342,13 @@ body {
 
 
 @media (max-width: 1380px) {
+    
+    body {
+    background-image: url(./imagenes/background.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    animation: 1s ease-out 0s 1 slideInFromBottom;
+    }
 
     .nav-container{
         background: rgba(255, 255, 255, 0.14);
